@@ -1,10 +1,12 @@
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
 Flask==1.1.2
 gunicorn==19.9.0
+gym==0.7.4
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+torch==1.6.0+cpu
 scipy>=0.15.1
-scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
