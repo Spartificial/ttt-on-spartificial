@@ -4,10 +4,12 @@ import torch
 import torch.optim as optim
 from flask import Flask, jsonify, request
 import json
+from flask_cors import CORS
 
 
 
 app = Flask(__name__)
+CORS(app)
 
 batch_size = 128
 gamma = 0.99
