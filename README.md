@@ -6,7 +6,7 @@ A Deep Q Network based reinforcement learning agent to play tic-tac-toe that lea
 
 Initially agent plays random moves due to extensive exploration. 
 
-Demo - First 10000 points
+[Image or gif to be added later]
 
 
 ## How does it work
