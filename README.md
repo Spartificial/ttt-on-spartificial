@@ -1,6 +1,6 @@
 # ttt-on-spartificial
 
-A Deep Q Network based reinforcement learning agent that learns from user interation.
+A Deep Q Network based reinforcement learning agent to play tic-tac-toe that learns from human interation.
 
 ## Demo
 
