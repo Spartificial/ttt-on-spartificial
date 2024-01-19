@@ -37,6 +37,6 @@ The neural network will be updated with the given data (considering a play with 
 
 Since the model is not trained at first and it only learn with human interaction, it can take a lot of time to learn and optimize it's actions. From our testing, we are hoping to get best results after 30_000 total game iterations. 
 
-This model is training live at: https://spartificial.com/resources/game 
+The interactive UI for this project will be live soon [here](https://spartificial.com/)
 
 
